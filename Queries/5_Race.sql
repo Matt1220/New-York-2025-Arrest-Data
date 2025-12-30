@@ -1,3 +1,5 @@
+-- This Query find which race is involved in the most amount of arrest
+
 
 SELECT 
     COUNT(arrest_key) AS Crime_Total,
