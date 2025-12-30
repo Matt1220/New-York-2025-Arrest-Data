@@ -18,7 +18,6 @@ FROM
     nypd_arrest_data_new
 GROUP BY 
     Borough_Full
-ORDER BY 
-    RANDOM()
+
 
 
